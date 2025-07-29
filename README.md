@@ -77,6 +77,38 @@ This section should describe the process you went through to deploy the project 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://blvckkryptonite.github.io/love-running/
 
 
+## Acknowledgements
+
+This project was developed as part of the Full Stack Software Development Diploma offered by Code Institute. It was built to demonstrate practical knowledge of HTML, CSS, responsive design, and user-focused web development principles.
+
+
+## Potential Future Improvements
+
+- Add an interactive map showing meetup routes and locations using Google Maps or Leaflet.js.
+
+- Include a member dashboard with RSVP functionality for upcoming runs.
+
+- Implement a blog or news section for training tips, health content, and community updates.
+
+- Enhance accessibility with improved contrast ratios and ARIA roles for screen reader compatibility.
+
+- Integrate an email newsletter signup using services like Mailchimp or Firebase.
+
+- Add a testimonials section showcasing real feedback from members to build community trust.
+
+## Content
+
+This project was developed based on instructional materials provided by Code Institute as part of their Full Stack Software Development Diploma.
+
+Structural guidance and layout ideas were inspired by the "Love Running" walkthrough project from the course.
+
+General content such as page structure, section flow, and placeholder text was guided by the Code Institute curriculum examples.
+
+## Media
+
+All images used in the project were sourced from the Code Institute's Love Running README template and are used for educational purposes only.
+
+Icons and social media graphics, where applicable, were obtained from ![Font Awesome](https://fontawesome.com/) under their free license.
